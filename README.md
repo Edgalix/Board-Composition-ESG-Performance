@@ -56,5 +56,5 @@ access.
 
 ```bash
 pip install -r requirements.txt
-jupyter notebook Board_Composition_Code.ipynb
+jupyter notebook Board Composition Code.ipynb
 ```
